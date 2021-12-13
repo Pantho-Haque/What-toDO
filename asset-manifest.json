@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pantho-Haque/What-toDO.git/static/css/main.de6ee58d.chunk.css",
+    "main.js": "/Pantho-Haque/What-toDO.git/static/js/main.60d9ced9.chunk.js",
+    "main.js.map": "/Pantho-Haque/What-toDO.git/static/js/main.60d9ced9.chunk.js.map",
+    "runtime-main.js": "/Pantho-Haque/What-toDO.git/static/js/runtime-main.68101b8c.js",
+    "runtime-main.js.map": "/Pantho-Haque/What-toDO.git/static/js/runtime-main.68101b8c.js.map",
+    "static/js/2.b7c0ef76.chunk.js": "/Pantho-Haque/What-toDO.git/static/js/2.b7c0ef76.chunk.js",
+    "static/js/2.b7c0ef76.chunk.js.map": "/Pantho-Haque/What-toDO.git/static/js/2.b7c0ef76.chunk.js.map",
+    "static/js/3.261496be.chunk.js": "/Pantho-Haque/What-toDO.git/static/js/3.261496be.chunk.js",
+    "static/js/3.261496be.chunk.js.map": "/Pantho-Haque/What-toDO.git/static/js/3.261496be.chunk.js.map",
+    "index.html": "/Pantho-Haque/What-toDO.git/index.html",
+    "static/css/main.de6ee58d.chunk.css.map": "/Pantho-Haque/What-toDO.git/static/css/main.de6ee58d.chunk.css.map",
+    "static/js/2.b7c0ef76.chunk.js.LICENSE.txt": "/Pantho-Haque/What-toDO.git/static/js/2.b7c0ef76.chunk.js.LICENSE.txt",
+    "static/media/preloader.6e6d41f1.gif": "/Pantho-Haque/What-toDO.git/static/media/preloader.6e6d41f1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68101b8c.js",
+    "static/js/2.b7c0ef76.chunk.js",
+    "static/css/main.de6ee58d.chunk.css",
+    "static/js/main.60d9ced9.chunk.js"
+  ]
+}
